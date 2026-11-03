@@ -1,0 +1,34 @@
+[
+  {
+    "id": "db-01",
+    "kategori": "basis data",
+    "pertanyaan": "Jelaskan apa itu basis data relasional dalam 3-4 kalimat.",
+    "keywords": ["tabel", "baris", "kolom", "relasi", "sql"],
+    "min_kata": 30,
+    "max_kata": 120
+  },
+  {
+    "id": "hw-01",
+    "kategori": "perangkat keras",
+    "pertanyaan": "Apa perbedaan RAM dan penyimpanan (storage)? Jawab singkat.",
+    "keywords": ["sementara", "permanen", "cepat", "data", "kapasitas"],
+    "min_kata": 30,
+    "max_kata": 130
+  },
+  {
+    "id": "si-01",
+    "kategori": "sistem informasi",
+    "pertanyaan": "Sebutkan 3 manfaat sistem informasi bagi perusahaan.",
+    "keywords": ["efisiensi", "keputusan", "data", "informasi", "proses"],
+    "min_kata": 30,
+    "max_kata": 150
+  },
+  {
+    "id": "ai-01",
+    "kategori": "kecerdasan buatan",
+    "pertanyaan": "Apa itu halusinasi pada model bahasa AI dan bagaimana cara mengurangi dampaknya?",
+    "keywords": ["salah", "fakta", "verifikasi", "sumber", "yakin"],
+    "min_kata": 40,
+    "max_kata": 160
+  }
+]
